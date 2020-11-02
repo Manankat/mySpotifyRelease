@@ -1,0 +1,24 @@
+.container {
+    display:flex;
+    background-color: #242424;
+    color: white;
+}
+
+.fixed {
+    display: inline-block;
+    margin: 0;
+    padding: 0px;
+    height: 970px;
+}
+
+.flex {
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+
+.clickableImage {
+    width: 350px;
+    height: 200px;
+    border-radius: 100px;
+}

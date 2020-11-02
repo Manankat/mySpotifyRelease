@@ -1,0 +1,13 @@
+.rounded {
+    border-radius: 100%;
+}
+
+.table-user {
+    text-align: left;
+}
+
+table.table-user td:first-child {
+    width: 150px;
+    text-align: right;
+    padding-right: 10%;
+}

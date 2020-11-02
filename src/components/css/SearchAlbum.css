@@ -1,0 +1,57 @@
+.input-container {
+    display: flex;
+  }
+  
+  .input-section {
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+  }
+  
+  .data-container {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+  }
+  
+  .image-container {
+    display: flex;
+    margin-top: 50px;
+  }
+  
+  .table-song {
+    text-align: left;
+    width: 100%;
+  }
+  
+  table.table-song td:first-child {
+    width: 50%;
+    text-align: right;
+    padding-right: 10%;
+  }
+  
+  table.table-song td {
+    padding-top: 5%;
+    width: 50%;
+  }
+  
+  .icon {
+    background: #1DB954;
+    color: white;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    border-radius: 20px 0px 0px 20px;
+  }
+  
+  .input-album {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border-radius: 0px 20px 20px 0px;    
+  }
+  
+  .input-field:focus {
+    border: 2px solid #1DB954;
+  }

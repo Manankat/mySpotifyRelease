@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0px;
+    height: 970px;
+}
+
+.options {
+    margin-top: 30px;
+    color:  #1DB954;
+}
+
+.font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
